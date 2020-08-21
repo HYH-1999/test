@@ -1,4 +1,4 @@
-// Print hello world to users
+// say hello to users
 function test(){
-    print('Hello world')
+    message('Wecome to users')
 }
